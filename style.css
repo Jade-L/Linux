@@ -1,6 +1,6 @@
 body {
      background-image:url(http://img1.mxstatic.com/wallpapers/1e72debc20e440bf04fbd6b827c3b93d_large.jpeg);
-     background-attachement: fixed;
+     background-attachment: fixed;
      background-size: 100%;
 }
 
@@ -14,4 +14,3 @@ body {
            padding-bottom: 10px;
            padding-right: 10px;
 }
-
