@@ -6,13 +6,13 @@ body {
 }
 section {
            background-color: #45697f;
-           border: solid #0e1c29 5px;
+           border: solid #0e1c29 .312em;
            position: absolute;
-           border-radius: 10px;
-           left: 25px;
-           padding-left: 10px;
-           padding-bottom: 10px;
-           padding-right: 10px;
+           border-radius: .625em;
+           left: 2%;
+           padding-left: 1%;
+           padding-bottom: 1%;
+           padding-right: 1%;
 }
 
 @media screen and (max-width: 800px) {
