@@ -27,7 +27,7 @@ li {
   padding-bottom: 1.5%
 }
 
-@media query screen and (max-widht: 900px) {
+@media query and (max-widht: 900px) {
   section {
     height: 90%;
     font-size: 2em;
