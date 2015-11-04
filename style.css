@@ -22,9 +22,7 @@ section {
 
 @media all and (max-widht: 900px) {
   section {
-    height: 20em;
-    width: auto;
-    display: block;
+    font-size: 5em;
   }
 }
 
