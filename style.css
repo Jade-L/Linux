@@ -16,6 +16,14 @@ section {
     font-size: 1em;
 }
 
+@media all and (max-widht: 1024px) {
+  section {
+    height: auto;
+    width: auto;
+    display: block;
+  }
+}
+
 span {
   background-color: black;
   color: white;
@@ -25,12 +33,4 @@ span {
 
 li {
   padding-bottom: 1.5%
-}
-
-@media all and (max-widht: 1024px) {
-  section {
-    height: auto;
-    width: auto;
-    display: block;
-  }
 }
