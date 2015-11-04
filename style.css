@@ -27,9 +27,10 @@ li {
   padding-bottom: 1.5%
 }
 
-@media query screen and (max-widht: 1280px) {
+@media all and (max-widht: 1280px) {
   section {
-    height: 100%;
+    height: auto;
     width: auto;
+    display: block;
   }
 }
