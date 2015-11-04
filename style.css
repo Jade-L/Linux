@@ -1,9 +1,17 @@
 body {
-  background-image:url(http://img1.mxstatic.com/wallpapers/1e72debc20e440bf04fbd6b827c3b93d_large.jpeg);
+  background-color: blue;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+@media screen and (max-width: 400px) {
+  body {
+    background-color: black;
+    background: none;
+  }
+}
+
 section {
     background-color: #45697f;
     border: solid #0e1c29 .312em;
@@ -16,7 +24,7 @@ section {
     font-size: 1em;
 }
 
-@media all and (max-widht: 1024px) {
+@media all and (max-widht: 900px) {
   section {
     height: auto;
     width: auto;
