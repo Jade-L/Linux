@@ -27,7 +27,7 @@ li {
   padding-bottom: 1.5%
 }
 
-@media all and (max-widht: 1280px) {
+@media all and (max-widht: 1024px) {
   section {
     height: auto;
     width: auto;
