@@ -20,7 +20,7 @@ section {
     font-size: 1em;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 1024px) {
   section {
     margin-bottom: 20%;
   }
@@ -35,4 +35,11 @@ span {
 
 li {
   padding-bottom: 1.5%
+}
+
+@media screen and (max-width: 1024px) {
+  li {
+    padding-bottom: 1.5%;
+    font-size: 2em;
+  }
 }
