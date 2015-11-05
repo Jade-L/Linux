@@ -40,6 +40,6 @@ li {
 @media screen and (max-width: 1024px) {
   li {
     padding-bottom: 1.5%;
-    font-size: 2em;
+    font-size: 4em;
   }
 }
