@@ -20,7 +20,7 @@ section {
     font-size: 1em;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 400px) {
   section {
     margin-bottom: 20%;
   }
